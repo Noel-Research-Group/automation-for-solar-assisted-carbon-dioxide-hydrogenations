@@ -2,6 +2,8 @@
 
 # automated reactor system for solar-assisted carbon dioxide hydrogenations over heterogeneous catalysts
 
+![nrg logo](https://github.com/Noel-Research-Group/automation-for-solar-assisted-carbon-dioxide-hydrogenations/blob/main/imgs/scheme.png)
+
 In this repository you can find all information regarding the software side of the solar simulator setup, as well as 3D files, firmware and connectivity diagrams to build the custom devices developed for this project.
 
 The repository includes:
@@ -21,7 +23,7 @@ This repo includes data on the construction of the physiscal device, code for th
 and documentation on controlling the device via serial-through-USB.
 Find all of this under `./AduinoDevices/BackPressureRegulator` (includes documentation).
 
-![screenshot of solar simulator monitor](https://github.com/Noel-Research-Group/automation-for-solar-assisted-carbon-dioxide-hydrogenations/blob/main/imgs/vbpr.jpeg)
+![back pressure regulator](https://github.com/Noel-Research-Group/automation-for-solar-assisted-carbon-dioxide-hydrogenations/blob/main/imgs/vbpr.jpeg)
 
 ## Controller for the light source of the solar simulator setup
 
@@ -29,3 +31,5 @@ Device for automatic control of HLG-480H-xx-AB power suppply. This power supply 
 The device allows for direct user control via 3 buttons and a 2-lines LCD display.
 The device also controls the cooling fans of the LED lights.
 Find all of this under `./AduinoDevices/LightSource` (includes documentation).
+
+![light control](https://github.com/Noel-Research-Group/automation-for-solar-assisted-carbon-dioxide-hydrogenations/blob/main/imgs/light.jpeg)
