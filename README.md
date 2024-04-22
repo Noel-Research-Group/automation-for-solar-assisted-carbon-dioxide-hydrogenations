@@ -1,4 +1,4 @@
-![nrg logo](https://github.com/Noel-Research-Group/automation-for-solar-assisted-carbon-dioxide-hydrogenations/raw/master/imgs/NRG-Logo.png)
+![nrg logo](https://github.com/Noel-Research-Group/automation-for-solar-assisted-carbon-dioxide-hydrogenations/blob/main/imgs/NRG-Logo.png)
 
 # automated reactor system for solar-assisted carbon dioxide hydrogenations over heterogeneous catalysts
 
@@ -12,7 +12,7 @@ A visual interactive tool to control and monitor the different devices that are 
 Any number of setups can be configured, each with their unique combination of devices.
 This is programmed in python with few external dependences, find detailed instructions with the code under `./SolarSimulatorMonitor`.
 
-![screenshot of solar simulator monitor](https://github.com/Noel-Research-Group/automation-for-solar-assisted-carbon-dioxide-hydrogenations/raw/master/imgs/monitor.png)
+![screenshot of solar simulator monitor](https://github.com/Noel-Research-Group/automation-for-solar-assisted-carbon-dioxide-hydrogenations/blob/main/imgs/monitor.png)
 
 ## Controller for automated variable backpressure regulator
 
@@ -21,7 +21,7 @@ This repo includes data on the construction of the physiscal device, code for th
 and documentation on controlling the device via serial-through-USB.
 Find all of this under `./AduinoDevices/BackPressureRegulator` (includes documentation).
 
-![screenshot of solar simulator monitor](https://github.com/Noel-Research-Group/automation-for-solar-assisted-carbon-dioxide-hydrogenations/raw/master/imgs/vbpr.jpeg)
+![screenshot of solar simulator monitor](https://github.com/Noel-Research-Group/automation-for-solar-assisted-carbon-dioxide-hydrogenations/blob/main/imgs/vbpr.jpeg)
 
 ## Controller for the light source of the solar simulator setup
 
