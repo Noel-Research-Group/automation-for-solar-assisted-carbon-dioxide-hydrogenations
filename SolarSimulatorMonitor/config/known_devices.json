@@ -1,0 +1,44 @@
+{
+    "solarBPR": {
+        "vid": 6790,
+        "pid": 29987,
+        "manufacturer": "wch.cn",
+        "custom_id": "PRESSURE_CONTROL_0"
+    },
+    "solarLight": {
+        "serial_number": "85735313732351206202",
+        "vid": 9025,
+        "pid": 67,
+        "manufacturer": "Arduino LLC (www.arduino.cc)"
+    },
+    "dummy_Light": {
+        "serial_number": "75033303234351E082E0",
+        "vid": 9025,
+        "pid": 67,
+        "manufacturer": "Arduino LLC (www.arduino.cc)"
+    },
+    "MFC_CO2": {
+        "serial_number": "AB0M8V5TA",
+        "vid": 1027,
+        "pid": 24577,
+        "manufacturer": "FTDI"
+    },
+    "MFC_H2": {
+        "serial_number": "AB0MSD6GA",
+        "vid": 1027,
+        "pid": 24577,
+        "manufacturer": "FTDI"
+    },
+    "SolarTemperature": {
+        "serial_number": "AV0KD2QZA",
+        "vid": 1027,
+        "pid": 24577,
+        "manufacturer": "FTDI"
+    },
+    "N2_mfc": {
+        "serial_number": "AB0MVNKHA",
+        "vid": 1027,
+        "pid": 24577,
+        "manufacturer": "FTDI"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "CO2_reduction": [
+        {
+            "name": "solarBPR",
+            "type": "Pressure"
+        },
+        {
+            "name": "solarLight",
+            "type": "Light"
+        },
+        {
+            "name": "MFC_CO2",
+            "type": "Flow"
+        },
+        {
+            "name": "MFC_H2",
+            "type": "Flow"
+        },
+        {
+            "name": "SolarTemperature",
+            "type": "Temperature"
+        }
+    ],
+    "T-test": [
+        {
+            "name": "SolarTemperature",
+            "type": "Temperature"
+        }
+    ],
+    "flow-test": [
+        {
+            "name": "N2_mfc",
+            "type": "Flow"
+        }
+    ]
+}
