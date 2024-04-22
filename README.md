@@ -32,4 +32,4 @@ The device allows for direct user control via 3 buttons and a 2-lines LCD displa
 The device also controls the cooling fans of the LED lights.
 Find all of this under `./AduinoDevices/LightSource` (includes documentation).
 
-![light control](https://github.com/Noel-Research-Group/automation-for-solar-assisted-carbon-dioxide-hydrogenations/blob/main/imgs/light.jpeg)
+![light control](https://github.com/Noel-Research-Group/automation-for-solar-assisted-carbon-dioxide-hydrogenations/blob/main/imgs/light.png)
