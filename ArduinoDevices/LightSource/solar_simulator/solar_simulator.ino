@@ -1,5 +1,8 @@
 /*
-	Light controller for the Solar Simulator setup
+	File: solar_simulator.ino
+	Author: Simone Pilon <s.pilon at uva.nl> - Noël Research Group - 2023
+	GitHub: https://github.com/simone16
+	Comment: Light controller for the Solar Simulator setup
 
 	Serial Communication:
 
@@ -36,8 +39,6 @@
 			pin 3 -> board input 1 (light intensity control)
 			pin 4 -> board input 2 (lights circuit breaker)
 			pin 5 -> board input 3 (12v fans)
-
-	by Simone Pilon <s.pilon at uva.nl> - Noël Research Group - 2023
  */
 
 #include <LiquidCrystal.h>

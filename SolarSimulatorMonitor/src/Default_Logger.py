@@ -1,6 +1,9 @@
-# Defines a default logger function.
-#
-# Author: Simone Pilon - Noël Research Group - 2023
+"""
+File: Default_Logger.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Description: Defines a default logger function.
+"""
 
 import time
 

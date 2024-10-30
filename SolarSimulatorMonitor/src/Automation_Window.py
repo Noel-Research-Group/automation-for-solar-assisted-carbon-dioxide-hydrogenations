@@ -1,6 +1,9 @@
-# Part of the GUI to monitor and control the solar simulator setup interactively.
-#
-# Author: Simone Pilon - Noël Research Group - 2023
+"""
+File: Automation_Window.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Description: Part of the GUI to monitor and control the solar simulator setup interactively.
+"""
 
 import tkinter as tk
 from tkinter import ttk

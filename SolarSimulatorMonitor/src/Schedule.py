@@ -1,6 +1,9 @@
-# Automation schedule storage and handling.
-#
-# Author: Simone Pilon - Noël Research Group - 2023
+"""
+File: Schedule.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Description: Automation schedule storage and handling.
+"""
 
 import threading
 import pause

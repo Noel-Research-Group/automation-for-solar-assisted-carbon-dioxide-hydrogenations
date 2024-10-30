@@ -1,9 +1,8 @@
 /*
-	Control of push buttons with debounce.
-
-	This file is part of the lights controller for the Solar Simulator setup.
-
-	by Simone Pilon <s.pilon at uva.nl> - Noël Research Group - 2023
+	File: buttons.cpp
+	Author: Simone Pilon <s.pilon at uva.nl> - Noël Research Group - 2023
+	GitHub: https://github.com/simone16
+	Comment: Control of push buttons with debounce.
  */
 
 #include "buttons.h"

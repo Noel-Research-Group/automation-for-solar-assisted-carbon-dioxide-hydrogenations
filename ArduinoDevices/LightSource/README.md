@@ -52,4 +52,7 @@ Variables:
 - LiquidCrystal (by Adafruit)<br>
 Control of the LCD display.
 
+# Author
+
 Author: Simone Pilon \<s.pilon at uva.nl\>, Noël Research Group, 2023
+GitHub: https://github.com/simone16

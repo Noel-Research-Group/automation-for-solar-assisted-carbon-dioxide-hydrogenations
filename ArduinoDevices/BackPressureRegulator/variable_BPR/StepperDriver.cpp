@@ -1,3 +1,10 @@
+/*
+	File: StepperDriver.cpp
+	Author: Simone Pilon <s.pilon at uva.nl> - Noël Research Group - 2023
+	GitHub: https://github.com/simone16
+	Comment: Controls a stepper motor with STEP & DIR interface.
+ */
+
 #include "StepperDriver.h"
 #include <math.h>
 #include <Arduino.h>

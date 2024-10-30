@@ -1,3 +1,10 @@
+"""
+File: Command_Line_Arguments.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Description: Command line arguments for solar simulator monitor.
+"""
+
 import argparse
 
 def solar_simulator_monitor_argparser():

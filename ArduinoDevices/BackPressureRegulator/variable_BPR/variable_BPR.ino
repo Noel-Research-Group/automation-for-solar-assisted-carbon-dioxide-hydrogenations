@@ -1,5 +1,8 @@
 /*
-	Controller for automated Variable Backpressure Regulator
+	File: variable_BPR.ino
+	Author: Simone Pilon <s.pilon at uva.nl> - Noël Research Group - 2023
+	GitHub: https://github.com/simone16
+	Comment: Controller for automated Variable Backpressure Regulator.
 
 	Serial Communication:
 
@@ -32,8 +35,6 @@
 		Analog inputs
 			pin 14 (A0) <- Analog input, reads multi-turn potentiometer for absolute position of valve.
 			pin 15 (A1) <- Analog input, reads pressure via the current-to-voltage conversion circuit.
-
-	by Simone Pilon <s.pilon at uva.nl> - Noël Research Group - 2023
  */
 
 #include "Controller.h"	// The proportional controller

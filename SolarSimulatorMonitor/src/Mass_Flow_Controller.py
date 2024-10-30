@@ -1,6 +1,9 @@
-# Interface to Bronkhorst mass flow controller device (serial-through-USB).
-#
-# Author: Simone Pilon - Noël Research Group - 2023
+"""
+File: Mass_Flow_Controller.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Description: Interface to Bronkhorst mass flow controller device (serial-through-USB).
+"""
 
 import propar
 from threading import Lock

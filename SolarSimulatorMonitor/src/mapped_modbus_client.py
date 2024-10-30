@@ -1,6 +1,8 @@
-# Modbus interface for the Omron E5_C temperature controller.
-#
-# Author: Ronald Kortekaas - University of Amsterdam (TC) - 2023
+"""
+File: mapped_modbus_client.py
+Author: Author: Ronald Kortekaas - University of Amsterdam (TC) - 2023
+Description: Modbus interface for the Omron E5_C temperature controller.
+"""
 
 import struct
 import enum

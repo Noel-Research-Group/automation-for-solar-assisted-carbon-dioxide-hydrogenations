@@ -1,7 +1,11 @@
-# Wrapper for the Omron E5_C temperature control unit.
-# Provides an interface with a similar feel to the other devices of Solar Simulator.
-#
-# Author: Simone Pilon - Noël Research Group - 2023
+"""
+File: Temperature_Control.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Description: Wrapper for the Omron E5_C temperature control unit.
+    Provides an interface with a similar feel to the other devices of Solar Simulator.
+"""
+
 import pymodbus.exceptions
 
 import e5_cregister

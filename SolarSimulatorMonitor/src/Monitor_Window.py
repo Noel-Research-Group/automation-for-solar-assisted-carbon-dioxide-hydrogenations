@@ -1,7 +1,10 @@
-# GUI to monitor and control the solar simulator setup interactively.
-# This file contains classes for most of the GUI, main window, BPR calibration and device panels.
-#
-# Author: Simone Pilon - Noël Research Group - 2023
+"""
+File: Monitor_Window.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Description: GUI to monitor and control the solar simulator setup interactively.
+    This file contains classes for most of the GUI, main window, BPR calibration and device panels.
+"""
 
 # GUI with tkinter
 import tkinter as tk

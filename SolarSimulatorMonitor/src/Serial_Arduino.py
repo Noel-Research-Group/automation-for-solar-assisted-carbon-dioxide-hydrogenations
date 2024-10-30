@@ -1,6 +1,9 @@
-# Interface for controlling arduino-based serial devices
-#
-# Author: Simone Pilon - Noël Research Group - 2023
+"""
+File: Serial_Arduino.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Description: Interface for controlling arduino-based serial devices.
+"""
 
 import serial
 from threading import Lock

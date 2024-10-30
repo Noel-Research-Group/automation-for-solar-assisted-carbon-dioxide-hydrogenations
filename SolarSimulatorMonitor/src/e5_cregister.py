@@ -1,7 +1,10 @@
-# Register map for the Omron E5_C temperature controller modbus interface.
-#
-# Author: Ronald Kortekaas - University of Amsterdam (TC) - 2023
-# Author: Simone Pilon - Noël Research Group - 2023
+"""
+File: e5_cregister.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Author: Ronald Kortekaas - University of Amsterdam (TC) - 2023
+Description: Register map for the Omron E5_C temperature controller modbus interface.
+"""
 
 from enum import Enum, Flag, CONFORM
 

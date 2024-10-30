@@ -1,6 +1,9 @@
-# Interface for controlling arduino-based light source system of the solar simulator setup.
-#
-# Author: Simone Pilon - Noël Research Group - 2023
+"""
+File: Solar_Light_Source.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Description: Interface for controlling arduino-based light source system of the solar simulator setup.
+"""
 
 from Serial_Arduino import Arduino
 

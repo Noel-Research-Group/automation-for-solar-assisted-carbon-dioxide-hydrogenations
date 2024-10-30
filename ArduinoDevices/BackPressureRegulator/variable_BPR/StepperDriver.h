@@ -1,10 +1,12 @@
-// StepperDriver.h
+/*
+	File: StepperDriver.h
+	Author: Simone Pilon <s.pilon at uva.nl> - Noël Research Group - 2023
+	GitHub: https://github.com/simone16
+	Comment: Controls a stepper motor with STEP & DIR interface.
+ */
+
 #ifndef STEPPERDRIVER_h
 #define STEPPERDRIVER_h
-
-// Controls a stepper motor with STEP & DIR interface
-//
-// Author: Simone Pilon <s.pilon@uva.nl>
 
 class StepperDriver {
 	public:

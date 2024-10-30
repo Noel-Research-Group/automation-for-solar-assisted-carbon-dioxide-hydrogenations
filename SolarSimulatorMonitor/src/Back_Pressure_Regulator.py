@@ -1,6 +1,9 @@
-# Interface for controlling arduino-based adjustable back pressure regulator
-#
-# Author: Simone Pilon - Noël Research Group - 2023
+"""
+File: Back_Pressure_Regulator.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Description: Interface for controlling arduino-based adjustable back pressure regulator.
+"""
 
 from Serial_Arduino import Arduino
 

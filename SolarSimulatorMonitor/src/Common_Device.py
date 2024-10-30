@@ -1,6 +1,9 @@
-# Base class for all devices that the solar simulator monitor interfaces with.
-#
-# Author: Simone Pilon - Noël Research Group - 2023
+"""
+File: Common_Device.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Description: Base class for all devices that the solar simulator monitor interfaces with.
+"""
 
 from Default_Logger import print_message
 

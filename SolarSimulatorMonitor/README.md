@@ -79,4 +79,7 @@ Serial_Arduino.Arduino defines additional methods which simplify communicating w
 arduino-based devices. It in turn inherits from MonitorDevice, so if your new device is Arduino-based,
 you should prefer inheriting from Arduino instead.
 
-Author: Simone Pilon - Noël Research Group - 2023
+# Author
+
+Author: Simone Pilon \<s.pilon at uva.nl\>, Noël Research Group, 2023
+GitHub: https://github.com/simone16

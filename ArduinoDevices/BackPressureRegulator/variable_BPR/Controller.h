@@ -1,22 +1,26 @@
-// Controller.h
+/*
+	File: Controller.h
+	Author: Simone Pilon <s.pilon at uva.nl> - Noël Research Group - 2023
+	GitHub: https://github.com/simone16
+	Comment: Proportional PV controller.
+
+	This is a purely proportional controller (PID, without I and D).
+	Response curve:
+	
+	response
+	 max ^ . . . .___________
+	     |       /
+	     |      /.
+	 min | |---/ .
+	     +-------------------> error
+	       ^   ^ ^
+	       |   | |_fast threshold
+	       |   |_slow threshold
+	       |_permissible threshold
+ */
+
 #ifndef CONTROLLER_h
 #define CONTROLLER_h
-
-// This is a purely proportional controller (PID, without I and D).
-// Response curve:
-//
-// response
-//  max ^ . . . .___________
-//      |       /
-//      |      /.
-//  min | |---/ .
-//      +-------------------> error
-//        ^   ^ ^
-//        |   | |_fast threshold
-//        |   |_slow threshold
-//        |_permissible threshold
-//
-// Author: Simone Pilon <s.pilon@uva.nl>
 
 class Controller {
 	public:

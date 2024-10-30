@@ -1,4 +1,10 @@
-// Controller.cpp
+/*
+	File: Controller.cpp
+	Author: Simone Pilon <s.pilon at uva.nl> - Noël Research Group - 2023
+	GitHub: https://github.com/simone16
+	Comment: Proportional PV controller.
+ */
+
 #include "Controller.h"
 
 #include <math.h>

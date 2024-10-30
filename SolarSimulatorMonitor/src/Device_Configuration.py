@@ -1,6 +1,10 @@
-# Load and store different hardware configurations for the Solar Simulator Setup.
-#
-# Author: Simone Pilon - Noël Research Group - 2023
+"""
+File: Device_Configuration.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Description: Load and store different hardware configurations for the Solar Simulator Setup.
+"""
+
 import copy
 import os.path
 from os import getcwd

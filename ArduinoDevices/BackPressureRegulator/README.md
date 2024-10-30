@@ -53,4 +53,7 @@ Variables:
 
 This project does not have any external dependencies.
 
+# Author
+
 Author: Simone Pilon \<s.pilon at uva.nl\>, Noël Research Group, 2023
+GitHub: https://github.com/simone16

@@ -1,6 +1,9 @@
-# Identify and distinguish different serial-through-USB devices.
-#
-# Author: Simone Pilon - Noël Research Group - 2023
+"""
+File: Serial_devices.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Description: Identify and distinguish different serial-through-USB devices.
+"""
 
 import serial
 import serial.tools.list_ports

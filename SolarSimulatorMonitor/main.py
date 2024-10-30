@@ -1,7 +1,10 @@
-# Python GUI for controlling several serial devices
-# Designed for use with the solar simulator setup.
-#
-# Author: Simone Pilon - Noël Research Group - 2023
+"""
+File: main.py
+Author: Simone Pilon - Noël Research Group - 2023
+GitHub: https://github.com/simone16
+Description: Python GUI for controlling several serial devices.
+"""
+
 import os
 import Command_Line_Arguments
 import Device_Configuration
